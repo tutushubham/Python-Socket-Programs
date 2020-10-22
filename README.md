@@ -4,12 +4,12 @@ A server and client based program for message transfer using socket programming.
 - A server is the central entity which holds the data and the important information and client requests the access to the data.
 - Example - A simple web browser.
 
-## Instructions to run the program
+## Instructions to run the program:
 
 1) First start the server - `python3 server.py`
 2) Now run the client program - `python3 client.py`
 3) To end the connection, send 'bye' from the server side.
 
-## Procedure
+## Procedure:
 
 ![Procedure](cs-communication.png)
